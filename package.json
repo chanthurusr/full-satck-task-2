@@ -1,0 +1,10 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ques2.js"
+  },
+  "dependencies": {
+    "formidable": "^3.5.1"
+  }
+}
